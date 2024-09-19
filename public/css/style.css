@@ -1,0 +1,10 @@
+.object-sm {
+    width: 40%;
+    margin: 20px auto
+}
+
+@media screen and (max-width: 900px) {
+    .object-sm {
+        width: 100%;
+    }
+}
